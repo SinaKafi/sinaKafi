@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently want to learningjs as backend ex **M E R N stack**
 
-- 👯 some of my projects  [hamrahe hushmand super app](app.hamrahehushmand.ir) [AlinLand](alinland.com)
+- 👯 some of my projects  [hamrahe hushmand super app](app.hamrahehushmand.ir) ,  [AlinLand](alinland.com)
 
 - 💬 Ask me about **reacjs && node js**
 
