@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sina Kafi</h1>
 <h3 align="center">A passionate frontend developer from Iran with</h3>
 
-- 🔭 I’m currently working on [AlinLand](alinland.com)
+- 🔭 I’m currently working on [NovinArzesh](novinArzrsh.ir)
 
 - 🌱 I’m currently want to learningjs as backend ex **M E R N stack**
 
-- 👯 some of my projects  [hamrahe hushmand super app](app.hamrahehushmand.ir) ,  [AlinLand](alinland.com)
+- 👯 some of my projects  [hamrahe hushmand super app](app.hamrahehushmand.ir) ,  [AlinLand](alinland.com),[rocket Ecommerse](myrocket.ir) 
 
 - 💬 Ask me about **reacjs && node js**
 
