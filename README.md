@@ -3,10 +3,6 @@
 
 - 🔭 I’m currently working on [Snapp Pay](snapp.ir)
 
-- 🌱 I’m currently want to learningjs as backend ex **M E R N stack**
-
-- 👯 some of my projects  [hamrahe hushmand super app](app.hamrahehushmand.ir) ,  [AlinLand](alinland.com),[rocket Ecommerse](myrocket.ir) 
-
 - 💬 Ask me about **reacjs && node js**
 
 - 📫 contact me **sina.kafi.sk@gamil.com**
