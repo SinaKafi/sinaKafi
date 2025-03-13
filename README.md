@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **reacjs && node js**
 
-- 📫 contact me **sina.kafi.sk@gamil.com**
+- 📫 contact me **sina.sk.kafi@gamil.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
