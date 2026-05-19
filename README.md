@@ -6,9 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Senior+Frontend+Engineer;React+%2F+Next.js+Architect;Performance+%26+Scalable+UI+Systems;Always+learning+%F0%9F%9A%80" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sina Kafi</h1>
-<h3 align="center">Frontend Engineer • React / Next.js • Building scalable UI systems</h3>
-
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">
+Software Engineer • Frontend Engineer • React / Next.js • Node.js • Express.js • Scalable UI & System Design
+</h3>
 ---
 
 ## 🧠 About
