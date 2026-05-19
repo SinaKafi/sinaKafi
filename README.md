@@ -8,8 +8,9 @@
 
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">
-Software Engineer • Frontend Engineer • React / Next.js • Node.js • Express.js • Scalable UI & System Design
+Frontend Engineer • React / Next.js • Node.js • Express.js • Scalable UI & System Design
 </h3>
+
 ---
 
 ## 🧠 About
