@@ -29,11 +29,11 @@ Senior Frontend Engineer focused on building **scalable UI systems** and **high-
 
 ### Core
 
-React • Next.js • Node.js • Express.js • TypeScript • JavaScript
+React • Next.js • TypeScript • JavaScript
 
 ### State & Data
 
-Redux • React Query • Zustand • GraphQL • REST
+Redux • React Query • Zustand • GraphQL • REST • Mongo.DB • Postgresql
 
 ### Styling
 
